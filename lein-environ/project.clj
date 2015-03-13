@@ -1,4 +1,4 @@
-(defproject org.clojure.bill/lein-environ "1.0.1"
+(defproject org.clojars.bill/lein-environ "1.0.1"
   :description "Leiningen plugin for Environ"
   :url "https://github.com/weavejester/environ"
   :scm {:dir ".."}
